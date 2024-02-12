@@ -82,19 +82,19 @@ body {
 
 
 .parallax {
-  background-image: url("./assets/images/parrall.jpg");
+  background-image: url("./assets/images/parallax.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 50vh;
+  height: 60vh;
 }
 
 .header {
   position: relative;
-  height: 150px;
+  height: 350px;
   background-size: cover;
-  background-image: url("./assets/images/services4.jpg");
+  background-image: url("./assets/images/services.jpg");
   background-position: center center;
 }
 .header-title {
@@ -189,7 +189,7 @@ body {
 
 /* The header banner */
 .header-banner {
-  background-image:  url("./assets/images/services-1.jpg");
+  background-image:  url("./assets/images/welcome.jpg");
    background-size: cover;
   background-position: center;
    position: relative;
